@@ -1,0 +1,21 @@
+@font-face{
+    font-family: "WorkSans";
+    src: url(WorkSans-SemiBold.ttf)
+    format('truetype');
+    }
+
+    #p1 {
+        font-family: "WorkSans" ; 
+        font-size: 50px; 
+        color: rgb(17, 15, 107);
+        }
+        #p2 {
+            font-family: "WorkSans" ; 
+            font-size: 20px; 
+            color: rgb(0, 0, 0);
+            }
+            #p3 {
+                font-family: "WorkSans" ; 
+                font-size: 15px; 
+                color: rgb(0, 0, 0);
+                }
